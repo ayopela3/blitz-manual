@@ -34,6 +34,20 @@ In **1 hour**, create a **minimum viable GenAI chat app** with the following fea
 - Streaming AI responses
 - Save chat history locally
 - Dark/light theme
+---
+
+### 🚀 Get some quick head start!
+
+##### You can also do it from Scratch if you want it this way
+
+```bash
+npx create-next-app@latest blitz-ai --typescript --tailwind --eslint --app --src-dir --import-alias '@/*' && cd blitz-ai && npm i ai @ai-sdk/openai zod
+```
+##### or you can clone the boilerplate
+
+```bash
+git clone https://github.com/ayopela3/chatbot-boilerplate
+```
 
 ---
 
